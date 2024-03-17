@@ -1,0 +1,3 @@
+## Search Heuristics Optimization in CSP
+
+In this assignment for an AI course (UBC CPSC322), I delved into heuristic search techniques applied to Constraint Satisfaction Problems (CSPs) and conducted a comprehensive benchmarking of stochastic local search implementations. Through experimentation and analysis, the project aimed to evaluate the effectiveness and efficiency of various heuristic algorithms in solving CSPs, shedding light on their practical applicability and performance in real-world scenarios.
